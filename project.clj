@@ -1,4 +1,4 @@
-(defproject tonyduan/clj-yahoo-boss "1.0.0"
+(defproject tonyduan/clj-yahoo-boss "1.0.1"
 
   :description "A Clojure client for the Yahoo BOSS Search API"
   :url "https://github.com/tonyduan/clj-yahoo-boss"

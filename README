@@ -1,12 +1,15 @@
 
     A Clojure client for the Yahoo BOSS Search API
 
+
 This client is a wrapper around Yahoo's API found here:
 https://developer.yahoo.com/boss/search/boss_api_guide/
 
+
 Leiningen:
 
-    [clj-yahoo-boss "1.0.0"]
+    [clj-yahoo-boss "1.0.1"]
+
 
 Usage:
 
@@ -18,6 +21,7 @@ Usage:
     At the moment, the following query types are supported:
     #{:limitedweb :web :images :news :spelling}
 
+
 Why:
 
     There are plenty of Clojure APIs written around supporting Twitter,
@@ -27,6 +31,7 @@ Why:
 
     This libary was built in response to thse issues. It is built upon the Java
     Scribe OAuth library, at https://github.com/fernandezpablo85/scribe-java.
+
 
 License:
 
