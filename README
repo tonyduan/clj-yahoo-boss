@@ -13,7 +13,7 @@ Leiningen:
 
 Usage:
 
-    (require 'yboss.api :refer all)
+    (use 'yboss.api)
     (query-yboss "your query here" :limitedweb oauth-key oauth-secret)
 
     This call will return a list of query results, formatted as hashmaps.
