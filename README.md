@@ -12,7 +12,7 @@ https://developer.yahoo.com/boss/search/boss_api_guide/
 There are plenty of Clojure APIs written around supporting Twitter,
 Facebook, Alexa and the like but none for the Yahoo BOSS API. This is in
 large due to the fact that very few libraries support the 'GET' call for
-OAuthV1, which is what the Yahoo BOSS API requires.
+OAuthV1, which is required.
 
 This libary was built in response to these issues. It is built upon the Java
 Scribe OAuth library, at https://github.com/fernandezpablo85/scribe-java.
