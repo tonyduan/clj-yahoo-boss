@@ -4,6 +4,8 @@ Last update: September 2014.
 
 ---
 
+[![Clojars Project](https://img.shields.io/clojars/v/tonyduan/clj-yahoo-boss.svg)](https://clojars.org/tonyduan/clj-yahoo-boss)
+
 This client is a wrapper around Yahoo's API found here:
 https://developer.yahoo.com/boss/search/boss_api_guide/
 
